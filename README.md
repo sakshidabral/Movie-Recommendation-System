@@ -21,6 +21,11 @@ Link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 2) Streamlit: For building the web application.
 3) Pandas & NumPy: For data manipulation and analysis.
 
+**Initial UI :**
+![image](https://github.com/user-attachments/assets/ba590fbb-8270-4e97-bbb9-504fbdb215b2)
+
+**After clicking on 'Recommend' button :**
+![image](https://github.com/user-attachments/assets/f9a959f3-8b60-4d7b-a983-a7f496041a49)
 
 
 
